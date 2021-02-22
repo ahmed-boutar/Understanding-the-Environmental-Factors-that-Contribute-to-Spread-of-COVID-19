@@ -1,0 +1,12 @@
+Original Coronavirus county data was obtained from:
+https://www.kaggle.com/fireballbyedimyrnmom/us-counties-covid-19-dataset/version/38
+	Contains Cases and Deaths in each US county by date
+
+Population and age data obtained from:
+https://www.census.gov/programs-surveys/popest/data.html
+
+Past weather data was scraped from:
+https://www.ncdc.noaa.gov/cdo-web/search
+
+Smoking data was scraped from:
+https://www.countyhealthrankings.org/app/2020/measure/factors/9/data
